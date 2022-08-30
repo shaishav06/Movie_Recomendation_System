@@ -1,0 +1,10 @@
+Data  -->    Data Pre Processing   --> Feature Extraction ---|
+							     |
+							     |
+							     v
+							user input
+							     |
+							     |
+							     v
+List Of movie <-- Cosine Similarity Algorithm 		<-----
+
